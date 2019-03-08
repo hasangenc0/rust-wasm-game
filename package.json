@@ -1,0 +1,29 @@
+{
+  "name": "wasm_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasangenc0/rust-wasm-game.git"
+  },
+  "keywords": [
+    "wasm",
+    "game"
+  ],
+  "author": "Hasan Genc <hasangencx@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasangenc0/rust-wasm-game/issues"
+  },
+  "homepage": "https://github.com/hasangenc0/rust-wasm-game#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
