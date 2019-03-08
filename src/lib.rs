@@ -22,6 +22,6 @@ extern {
 }
 
 #[wasm_bindgen]
-pub fn get_message() {
+pub fn give_message() {
   alert("This will be a wasm game!");
 }
